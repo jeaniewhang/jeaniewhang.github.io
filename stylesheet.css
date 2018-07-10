@@ -1,0 +1,22 @@
+h1 {
+color: blue;
+text-align: center;
+font-size: 36px;
+}
+
+body {
+  color:yellow;
+  font-style: normal;
+  font-size: 20px
+}
+a {
+  color: red;
+}
+
+#description {
+  color:red;
+}
+
+.text_stuff{
+  text_align: center;
+}
